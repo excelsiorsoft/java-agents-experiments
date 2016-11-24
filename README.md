@@ -31,3 +31,4 @@ To prevent the following Maven error
  make sure to have the Java VM argument properly set up in Eclipse:
 
 
+![JRE Tab](https://github.com/excelsiorsoft/java-agents-experiments/blob/master/images/Capture2.JPG)
