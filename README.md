@@ -19,7 +19,7 @@ it must be packaged seperately from the agent:
 java -javaagent:agent/target/securityfixer-agent-1.0-SNAPSHOT.jar=bootstrap/target/securityfixer-bootstrap-1.0-SNAPSHOT.jar securityfixer.Main
 ```
 
-Running inside Eclipse via Maven:
+Running inside Eclipse via Maven, in the parent ``securityfixer`` project:
 
 
 ![Main Tab](https://github.com/excelsiorsoft/java-agents-experiments/blob/master/images/Capture.JPG)
