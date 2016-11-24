@@ -22,7 +22,7 @@ java -javaagent:agent/target/securityfixer-agent-1.0-SNAPSHOT.jar=bootstrap/targ
 Running inside Eclipse via Maven:
 
 
-![Main Tab](https://github.com/excelsiorsoft/java-agents-experiments/tree/master/images/Capture.jpg)
+![Main Tab](https://github.com/excelsiorsoft/java-agents-experiments/blob/master/images/Capture.JPG)
 
 <p align="center">
   <img src="C:\Users\Simeon\Pictures\Capture.jpg" width="350"/>
