@@ -24,6 +24,10 @@ Running inside Eclipse via Maven:
 
 ![Main Tab](https://github.com/excelsiorsoft/java-agents-experiments/blob/master/images/Capture.JPG)
 
-<p align="center">
-  <img src="C:\Users\Simeon\Pictures\Capture.jpg" width="350"/>
- </p>
+To prevent the following Maven error
+
+![Maven Eclipse Error](https://github.com/excelsiorsoft/java-agents-experiments/blob/master/images/Capture3.JPG)
+
+ make sure to have the Java VM argument properly set up in Eclipse:
+
+
