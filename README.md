@@ -89,7 +89,7 @@ To be able to run it as executable jar we need to add the `<mainClass>` stanza t
 .
 
 
-    $ java -javaagent:agent/target/securityfixer-agent-1.0-SNAPSHOT.jar=bootstrap/target/securityfixer-bootstrap-1.0-SNAPSHOT.jar -jar example/target/securit yfixer-example-1.0-SNAPSHOT.jar
+    $ java -javaagent:agent/target/securityfixer-agent-1.0-SNAPSHOT.jar=bootstrap/target/securityfixer-bootstrap-1.0-SNAPSHOT.jar -jar example/target/securityfixer-example-1.0-SNAPSHOT.jar
 
 
     Security manager is set!    
